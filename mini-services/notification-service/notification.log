@@ -1,0 +1,5 @@
+$ bun --hot index.ts
+[NotificationService] WebSocket server running on port 3003
+[NotificationService] Client connected: R0UYE21UVZaIRSjAAAAC
+[NotificationService] User cmn9z4flz0000nxzxf8xlqeo6 joined (socket: R0UYE21UVZaIRSjAAAAC)
+[NotificationService] Total users connected: 1
